@@ -1,0 +1,39 @@
+
+
+/* @media (min-width: 1200px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1300px;
+}
+} */
+
+
+.bg-gray {
+    background: gray;
+}
+.bg-red {
+    background: red;
+}
+.bg-green {
+    background: green;
+}
+.h100 {
+    height: 100px;
+}
+.h150 {
+    height: 150px;
+}
+.h200 {
+    height: 200px;
+}
+.h400 {
+    height: 400px;
+}
+.abc {
+    line-height: 30px;
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+.abcd{
+    margin-left: -10px;
+}
